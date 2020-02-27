@@ -1,8 +1,3 @@
----
-layout: post
----
-
-
 
 ## Tools
 - [Endnote](https://endnote.com/)
